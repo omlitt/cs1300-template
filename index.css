@@ -3,14 +3,35 @@
 	max-width: 65%;
 }
 
-p {
+html * {
 	font-family: trebuchet ms;
 	font-size: 20;
+}
+
+p {
 	max-width: 75%;
 	margin-left: 30px;
 }
 
 h1 {
-	font-family: trebuchet ms;
 	margin-left: 15px;
+}
+
+h2 {
+	margin-left: 15px;
+}
+
+h3 {
+	margin-left: 15px;
+}
+h4 {
+	margin-left: 15px;
+}
+
+ol {
+	margin-left: 25px;
+}
+
+.storyboard {
+	max-width: 100%;
 }
